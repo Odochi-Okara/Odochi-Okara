@@ -5,7 +5,7 @@
  </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="okarachidera" /></a> </p>
 
-- 🔭 I’m currently working on **react**
+- 🔭 I’m currently working on a **Project Scheduler application**
 - 🌱 I work with **Java**
 - 💬 Ask me about **Java, Spring framework and React js**
 - 📫 How to reach me **odochiokara@gmail.com**
